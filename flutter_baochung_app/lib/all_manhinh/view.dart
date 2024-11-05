@@ -23,7 +23,7 @@ class _ManhinhFlutterState extends State<ManhinhFlutter> {
     return Scaffold(
       body: PageView(
         children: [
-          const Manhinh1(),
+          Manhinh1(),
           Manhinh2(),
           Manhinh3(),
           Manhinh4(),

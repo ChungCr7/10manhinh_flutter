@@ -32,7 +32,7 @@ class _ManhinhFlutterState extends State<ManhinhFlutter> {
           Manhinh7(),
           Manhinh8(),
           Manhinh9(),
-          const Manhinh10(),
+          Manhinh10(),
         ],
       ),
     );
